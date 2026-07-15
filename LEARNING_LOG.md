@@ -6,12 +6,11 @@ dibaca ulang nanti.
 
 ---
 
-## Template Entry (copy-paste tiap sesi baru)
-
-```
-## [Tanggal] — Topik: ...
+## Rabu, 15 Juli 2026
 
 **Yang saya pelajari:**
+1. Import Dataset ke dalam Database
+2. Basic Queris
 -
 
 **Query yang saya buat:**
@@ -21,6 +20,7 @@ dibaca ulang nanti.
 -
 
 **Kesulitan yang saya temui:**
+1. Awalnya saya kira langsung bisa untuk import langsung ternyata harus menyesuaikan dengan tipe kolom yg ada pada dataset
 -
 
 **Yang perlu dipelajari lagi:**
@@ -28,27 +28,3 @@ dibaca ulang nanti.
 ```
 
 ---
-
-## 2026-07-15 — Setup awal
-
-**Yang saya pelajari:**
-- Import dataset D2C Skincare ke PostgreSQL (6 tabel: customers, products,
-  orders, order_items, returns, reviews)
-- Konfirmasi koneksi database di port 5432
-
-**Query yang saya buat:**
-- (belum ada)
-
-**Insight / hasil menarik:**
-- (belum ada)
-
-**Kesulitan yang saya temui:**
-- (isi di sini)
-
-**Yang perlu dipelajari lagi:**
-- Mulai dari basic query: SELECT, WHERE, ORDER BY di tabel `customers`
-  dan `products`
-
----
-
-<!-- Tambahkan entry baru di atas garis ini, urut dari yang terbaru -->
