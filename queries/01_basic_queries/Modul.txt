@@ -1,0 +1,11 @@
+Modul 1 - Basic Query
+Tujuan Pembelajaran
+
+Setelah modul ini, kamu harus bisa:
+
+Melihat isi tabel
+Memilih kolom tertentu
+Mengurutkan data
+Membatasi hasil
+Menghilangkan data duplikat
+Menghitung jumlah data
