@@ -33,7 +33,7 @@
    - HAVING
 
 **Query yang saya buat:**
-- `queries/01_basic_queries/modul_1.sql`
+- `queries/01_basic_queries/modul_1A.sql`
 - `queries/01_basic_queries/modul_1B.sql`
 - `queries/01_basic_queries/modul_1C.sql`
   
