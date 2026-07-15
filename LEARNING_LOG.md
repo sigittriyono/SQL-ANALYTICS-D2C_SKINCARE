@@ -36,6 +36,7 @@
 - `queries/01_basic_queries/modul_1A.sql`
 - `queries/01_basic_queries/modul_1B.sql`
 - `queries/01_basic_queries/modul_1C.sql`
+-  [`modul_1C.sql`](.queries/01_basic_queries/modul_1C.sql).
   
 **Insight / hasil menarik:**
 1. PostgreSQL tidak dapat langsung mengimpor file CSV menjadi tabel. Struktur tabel dan tipe data harus dibuat terlebih dahulu agar proses import berhasil.
