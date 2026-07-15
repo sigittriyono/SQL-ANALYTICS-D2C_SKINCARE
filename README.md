@@ -36,9 +36,9 @@ customers 1───N reviews N───1 products (via orders)
 
 ## 🛠️ Tools
 
-- Database: PostgreSQL (port 5432)
-- Client: *(isi: DBeaver / pgAdmin / psql / dll)*
-- Dataset source: *(isi link Kaggle/sumber dataset)*
+- Database: PostgreSQL (port 5433)
+- Client: pgAdmin
+- Dataset source: https://www.kaggle.com/datasets/kaushalvyas16/d2c-skincare-e-commerce-analytics-dataset?select=D2C%20Skincare%20Analytics%20Dataset
 
 ## 📁 Struktur Repo
 
